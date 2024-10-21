@@ -29,11 +29,6 @@ img.social {
     max-width: 22.5%;
     height:    auto;
 }
-@media \0screen {
-    img {
-        width: auto; /* for ie 8 */
-    }
-}
 p {
     margin-left: auto;
     margin-right: auto;
@@ -42,17 +37,6 @@ p {
     </style>
 </head>
 <body>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-47344838-3', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
     <div class="container">
         <img class="full" src="GoofysNewquay.jpg" alt="Goofys Newquay" />
         <a href="http://facebook.com/GoofysNewquay"><img
